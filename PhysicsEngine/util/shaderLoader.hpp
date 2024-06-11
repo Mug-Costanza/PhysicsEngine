@@ -22,7 +22,7 @@
 //Pragma
 #pragma once
 
-// PURPOSE : Orginization, I guess.
+// PURPOSE : Organization, I guess.
 
 class Shader
 {
